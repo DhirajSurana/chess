@@ -1,4 +1,4 @@
-package guipart;
+
 
 import javax.swing.JComponent;
 

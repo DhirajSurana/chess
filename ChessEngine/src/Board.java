@@ -1,4 +1,4 @@
-package guipart;
+
 
 import java.awt.Color;
 import java.awt.Dimension;
