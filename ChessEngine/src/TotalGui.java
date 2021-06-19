@@ -8,6 +8,10 @@ import java.awt.Rectangle;
 import javax.swing.JComponent;
 
 public class TotalGui extends JComponent {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Board board;
 	private final int TOTAL_WIDTH = 64 * 9;
 	private final int TOTAL_HEIGHT = 64 * 9;

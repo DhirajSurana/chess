@@ -13,6 +13,10 @@ import javax.imageio.ImageIO;
 import javax.swing.JComponent;
 
 public class Board extends JComponent {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private final int SIZE = 64;
 	private final int BOARD_WIDTH = (8 * SIZE);
 	private final int BOARD_HEIGHT = (int) (8 * SIZE);

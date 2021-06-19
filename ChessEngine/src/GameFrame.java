@@ -4,6 +4,10 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
 public class GameFrame extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private TotalGui totalgui;
 	private ImageIcon icon;
 
